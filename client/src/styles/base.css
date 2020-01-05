@@ -21,6 +21,7 @@ code {
 }
 .Container {
   width: 100%;
+  background: white;
 }
 .Container-0 {
   width: 85%;
